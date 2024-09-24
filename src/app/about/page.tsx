@@ -21,7 +21,7 @@ const About = () => {
             About Me
           </h1>
           <p className="py-4">
-            Hello! I&apos;m Full Stack Developer with passion for creating responsive
+            Hello I am Full Stack Developer with passion for creating responsive
             and dynamic web application. I start my journey in IT with GIAIC,
             where I Developed a solid foundation in various web technologies.
           </p>
@@ -32,12 +32,12 @@ const About = () => {
             server-side application
           </p>
           <p className="py-4">
-            I&apos;m always eager to learn and embrace new challenges in the tech
-            world. When I&apos;m not coding,you&apos;ll find me exploring new frameworks
+            I am always eager to learn and embrace new challenges in the tech
+            world. When I am not coding,you will find me exploring new frameworks
             or working on personal projects to enhance my skills.
           </p>
           <p className="py-4">
-            Let&apos;s connect and create something amazing together!
+            Lets connect and create something amazing together!
           </p>
         </div>
       </div>

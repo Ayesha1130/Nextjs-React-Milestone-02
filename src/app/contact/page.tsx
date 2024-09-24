@@ -9,7 +9,7 @@ const Contact = () => {
         Contact<span className="text-red-950"> Me</span>
       </h1>
       <p className="rounded-full p-4 drop-shadow-[0-35px-35px-rgba(136,0,0,0.98)] transition-transform hover:scale-110 ">
-        I'd be glad to hear from you. Send me a message or drop me a line at{" "}
+        I&apos;d be glad to hear from you. Send me a message or drop me a line at{" "}
         <a href="https://www.linkedin.com/in/ayesha-iqbal-2613402b4/">
           ayeshaiqbal771@gmail.com
         </a>
