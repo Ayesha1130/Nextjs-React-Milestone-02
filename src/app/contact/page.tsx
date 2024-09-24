@@ -6,7 +6,7 @@ const Contact = () => {
   return (
     <div className="flex flex-col  items-center mt-32 p-4">
       <h1 className="text-5xl sm:text-5xl  items-center animate-bounce ">
-        Contact<span className="text-red-950"> Me</span>
+        Contact Me
       </h1>
       <p className="rounded-full p-4 drop-shadow-[0-35px-35px-rgba(136,0,0,0.98)] transition-transform hover:scale-110 ">
         I&apos;d be glad to hear from you. Send me a message or drop me a line at{" "}

@@ -6,7 +6,7 @@ const Projects = () => {
   return (
     <div className="flex flex-col items-center mt-32">
       <h1 className="text-5xl sm:text-5x1 text-center mb-4 animate-bounce">
-        <span className="text-red-950">My</span>Projects
+        My Projects
       </h1>
       <div className="flex flex-wrap justify-center md:flex-row">
         {[

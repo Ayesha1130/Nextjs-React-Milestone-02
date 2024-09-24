@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className=" flex flex-col md:flex-row item-center justify-between ma:mt-7 p-4 ">
       <h1 className="font-bold text-2xl md:text-3xl italic text-center">
-        Ayesha <span className="text-red-950">Iqbal</span>
+        Ayesha Iqbal
       </h1>
       <ul className="flex justify-center gap-x-4  italic text-lg md:text-xl cursor-pointer ">
         <Link
