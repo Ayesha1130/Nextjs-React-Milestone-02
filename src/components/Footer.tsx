@@ -13,24 +13,7 @@ const Footer = () => {
       <p className="text-center text-gray-600 text-sm">
         Contact: ayeshaiqbal771@gmail.com
       </p>
-      <div className="flex">
-        <a href="https://github.com/Ayesha1130" target="_blank">
-          <FaGithub
-            size={40}
-            className="text-white drop-shadow-[0-35px-35px-rgba(136,0,0,0.98)] transition-transform hover:scale-150"
-          />
-        </a>
-
-        <a
-          href="https://www.linkedin.com/in/ayesha-iqbal-2613402b4/"
-          target="_blank"
-        >
-          <FaLinkedin
-            size={40}
-            className="text-white  drop-shadow-[0-35px-35px-rgba(136,0,0,0.98)] transition-transform hover:scale-150"
-          />
-        </a>
-      </div>
+     
     </div>
   );
 };

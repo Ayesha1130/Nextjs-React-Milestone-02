@@ -9,7 +9,7 @@ const About = () => {
     >
       <Image
         src="/image/ash_profile.jpg"
-        className="rounded-md drop-shadow-[0_35px_35px_rgba(136,0,0,0.98)] "
+        className="rounded-md  "
         alt="Ayesha Iqbal"
         width={300}
         height={300}
